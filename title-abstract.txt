@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Enhancing Human Activity Recognition with Hardware Acceleration
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In this project, we aim to enhance the performance of Human Activity Recognition (HAR) by shifting the focus from traditional software optimization to specialized hardware acceleration. Recognizing the limitations of General-Purpose GPUs in efficiently handling the unique computational demands of HAR, our approach involves a thorough analysis of our HAR model's baseline performance on standard GPU setups, followed by exploring specific hardware acceleration techniques. This targeted strategy is anticipated to significantly improve efficiency, reduce latency, and address bottlenecks, thereby optimizing HAR systems for more effective real-world applications
